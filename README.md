@@ -72,4 +72,4 @@ Get help: [Post in our discussion board](https://github.com/skills/.github/discu
 
 </footer>
 ![github-actions-demo](https://github.com/sundayaz400/skills-hello-github-actions/actions/workflows/github-actions-demo.yml/badge.svg?branch=sundayaz400-patch-githuactioneg)
-https://github.com/sundayaz400/skills-hello-github-actions/actions/workflows/github-actions-demo.yml/badge.svg?branch=sundayaz400-patch-githuactioneg
+!https://github.com/sundayaz400/skills-hello-github-actions/actions/workflows/github-actions-demo.yml/badge.svg
