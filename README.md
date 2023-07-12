@@ -1,5 +1,5 @@
 <header>
-
+!(https://github.com/sundayaz400/skills-hello-github-actions/actions/workflows/github-actions-demo.yml/badge.svg)
 <!--
   <<< Author notes: Course header >>>
   Include a 1280x640 image, course title in sentence case, and a concise description in emphasis.
