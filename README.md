@@ -1,4 +1,4 @@
-! [GITHUB Action](https://github.com/sundayaz400/skills-hello-github-actions/actions/workflows/github-actions-demo.yml/badge.svg)
+![GITHUB Action](https://github.com/sundayaz400/skills-hello-github-actions/actions/workflows/github-actions-demo.yml/badge.svg?branch=sundayaz400-patch-githuactioneg)
 <header>
 <!--
   <<< Author notes: Course header >>>
